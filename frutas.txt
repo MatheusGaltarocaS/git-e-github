@@ -3,3 +3,5 @@ Melão
 Uva
 Banana
 Limão
+Abacate
+Melancia
