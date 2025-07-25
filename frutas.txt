@@ -2,6 +2,6 @@ Abacaxi
 Melão
 Uva
 Banana
+Mamão
 Limão
-Abacate
 Melancia
